@@ -49,8 +49,8 @@ This project extends classical SIR modeling by integrating a discrete geometric 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/frc_epidemic_modeling.git
-cd frc_epidemic_modeling
+git clone https://github.com/your-username/network_curvature_epidemics.git
+cd network_curvature_epidemics
 ```
 
 2. Launch Jupyter Notebook:
